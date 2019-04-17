@@ -11,7 +11,7 @@ var connection = mysql.createConnection({
   user: "root",
 
   // Your password
-  password: "",
+  password: "mtgalla123",
   database: "bamazon_db"
 });
 
@@ -74,7 +74,6 @@ function askOrder() {
         else {
             if(res[0].stock_quantity < quantity || quantity===0){
               console.log("Insufficient quantity! Please resubmit order.")
-              //return;
               askOrder();
             }
         
