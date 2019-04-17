@@ -18,5 +18,6 @@ After the products are displayed, you will be asked to enter the Product ID of t
 Once an order has successfully been placed, the total price will be displayed.
 At this time the stock inventory for that product will be updated to reflect the new quantity remaining.
 
- ![Demo video](https://gifs.com/gif/bamazon-products-gZnkvk)
-Format: ![Alt Text](<iframe src='//gifs.com/embed/bamazon-products-gZnkvk' frameborder='0' scrolling='no' width='1232px' height='826px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>)
+ ![Demo video](https://j.gifs.com/gZnkvk.gif)
+Format: ![Alt Text](<https://j.gifs.com/gZnkvk.gif)
+![Test Image](/assets/images/gif.gif)

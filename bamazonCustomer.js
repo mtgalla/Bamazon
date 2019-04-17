@@ -88,18 +88,18 @@ function askOrder() {
                 " has been placed! \nTotal Cost: $" + custCost)
             })   
             }
-          endConnection();
+         // endConnection();
             
         }
  
     })
     
 })
-}
+};
 
 function endConnection(){
   connection.end();
-}
+};
 
 
   
