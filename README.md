@@ -20,4 +20,4 @@ At this time the stock inventory for that product will be updated to reflect the
 
  ![Demo video](https://j.gifs.com/gZnkvk.gif)
 [link](<https://j.gifs.com/gZnkvk.gif)
-![Test Image](/assets/images/gif (1).gif)
+![Test Image](/assets/images/displayProducts)
